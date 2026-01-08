@@ -2,7 +2,7 @@
 
 **AI Creative Assistant: Generate Ad Ideas & Visuals in One Click.**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://magicadsgenerator.streamlit.app/))]
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://magicadsgenerator.streamlit.app/)
 
 
 ## 🚀 About The Project
