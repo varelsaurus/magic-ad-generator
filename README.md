@@ -3,7 +3,7 @@
 **AI Creative Assistant: Generate Ad Ideas & Visuals in One Click.**
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://magicadsgenerator.streamlit.app/))
-*(Jangan lupa ganti link di atas dengan link aplikasimu kalau sudah live)*
+
 
 ## 🚀 About The Project
 Magic Ad Generator is a generative AI application designed to streamline the creative advertising workflow. It acts as a virtual agency, combining a **Creative Director (LLM)** and an **Art Director (Image Generation Model)** to produce ready-to-use ad assets instantly.
