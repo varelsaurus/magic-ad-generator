@@ -8,7 +8,7 @@ import time
 st.set_page_config(page_title="Magic Ad Generator", page_icon="✨")
 
 st.title("✨ AI Creative Assistant")
-st.write("Bikin ide iklan + gambar visual cuma dalam 1 klik! (Powered by madebyhumans intern candidate)")
+st.write("Bikin ide iklan + gambar visual cuma dalam 1 klik!")
 
 
 HF_TOKEN = st.secrets["HF_TOKEN"]
